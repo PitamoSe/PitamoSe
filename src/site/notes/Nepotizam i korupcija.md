@@ -3,9 +3,7 @@
 ---
 
 --- dg-publish: true title: Nepotizam i korupcija tags: [društvo, politika, korupcija] ---
-
 ![image_e16e7a7a 1.jpg](/img/user/image_e16e7a7a%201.jpg)
-
 **[[Korupcija\|Korupcija]] i [[nepotizam\|nepotizam]]** predstavljaju ključne društvene anomalije koje zlouporabom položaja iznutra rastaču zajednicu, ugrožavaju [[pravna država\|pravnu državu]] i uništavaju ekonomski napredak.
 
 > [!NOTE] Definicije pojmova
